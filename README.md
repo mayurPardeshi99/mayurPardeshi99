@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayurPardeshi99
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in backend web development
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me ...
 
 <!---
